@@ -1,0 +1,3 @@
+[submodule "styled"]
+	path = styled
+	url = git@github.com:git-katalist/styled.git
