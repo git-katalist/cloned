@@ -1,3 +1,6 @@
 [submodule "styled"]
 	path = styled
 	url = git@github.com:git-katalist/styled.git
+[submodule "material"]
+	path = material
+	url = git@github.com:git-katalist/material.git
